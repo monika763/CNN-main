@@ -1,4 +1,4 @@
-## Biswajit Gorai Roll-no-MA24M005
+## Monika Gupta Roll-no-MA24M016
 
 ### Deep Learning Assignment – CNN
 ### Assignment Structure
